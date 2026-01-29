@@ -1,0 +1,2 @@
+[flake8]
+ignore = F403,E501  # E501 = line too long (if you want to disable that too)
