@@ -1,7 +1,7 @@
 """
  * This file is part of the Sandy Andryanto Online Store Website.
  *
- * @author     Sandy Andryanto <sandy.andryanto.blade@gmail.com>
+ * @author     Sandy Andryanto <sandy.andryanto.official@gmail.com>
  * @copyright  2025
  *
  * For the full copyright and license information,

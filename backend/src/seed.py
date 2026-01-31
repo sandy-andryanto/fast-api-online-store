@@ -1,7 +1,7 @@
 """
  * This file is part of the Sandy Andryanto Online Store Website.
  *
- * @author     Sandy Andryanto <sandy.andryanto.blade@gmail.com>
+ * @author     Sandy Andryanto <sandy.andryanto.official@gmail.com>
  * @copyright  2025
  *
  * For the full copyright and license information,
@@ -83,7 +83,7 @@ class Seed:
                 "about_section": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.",
                 "com_location": "West Java, Indonesia",
                 "com_phone": "+62-898-921-8470",
-                "com_email": "sandy.andryanto.blade@gmail.com",
+                "com_email": "sandy.andryanto.official@gmail.com",
                 "com_currency": "USD",
                 "installed": 1,
                 "discount_active": 1,
